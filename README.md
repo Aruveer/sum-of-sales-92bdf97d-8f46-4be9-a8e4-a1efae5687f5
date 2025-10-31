@@ -1,4 +1,6 @@
 [![CI](https://github.com/Aruveer/sum-of-sales-92bdf97d-8f46-4be9-a8e4-a1efae5687f5/actions/workflows/ci.yml/badge.svg)](https://github.com/Aruveer/sum-of-sales-92bdf97d-8f46-4be9-a8e4-a1efae5687f5/actions/workflows/ci.yml)
+
+
 # Sales Summary Application
 
 A simple single-page web application that fetches sales data from a CSV file, calculates the total sales, and displays the result. This project is built with HTML, CSS, and vanilla JavaScript, and styled with Bootstrap 5.
